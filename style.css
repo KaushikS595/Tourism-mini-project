@@ -1,0 +1,15 @@
+.page-container{
+    background-image: url("https://ik.imagekit.io/vmxg98ksq/HTML/taj-mahal");
+    height:100vh;
+    width:350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.background-container{
+    background-image: url("https://ik.imagekit.io/vmxg98ksq/HTML/sea-ocean");
+    height:100vh;
+    background-repeat: no-repeat;
+} 
